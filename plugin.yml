@@ -1,0 +1,5 @@
+name: ClearLagg
+version: 1.0.0
+author: theohdg2
+main: theohdg2\ClearLagg\ClearLagg
+api: 4.0.0

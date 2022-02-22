@@ -1,0 +1,18 @@
+#a combien de secondes avant le clearlagg le message de prevetion va aparaitre
+delay-prevention:
+  - 50
+  - 30
+  - 10
+  - 5
+  - 4
+  - 3
+  - 2
+  - 1
+#{sec} sera le nombre de seconde qu'il reste
+message-prevention: "il reste {sec} avant le clearllag attention !"
+
+#le delay entre chaque clearlagg en seconde ! (defaut 30min)
+delay-inter-clear: 1800
+
+#{count} sera le nombre d'entité clear
+annonce-entity-clear: "{count} entité ont été clear"
